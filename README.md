@@ -9,24 +9,51 @@
 
 > **Talk is cheap. Show me the code.**
 >
-> 专注打造能解决实际痛点的生产力工具，热衷于 Rust 性能优化与 Linux 桌面定制。
+> 我专注于构建解决实际痛点的生产力工具，擅长 Rust、Java、TypeScript 与 Linux 桌面深度定制。
 
 ---
 
-## 🚀 精选开源项目
+## 🧠 关于我
+
+- 专注于 VS Code 生产力扩展与桌面工具开发
+- 擅长高性能系统、插件开发与 AI 驱动的用户体验
+- 热衷极简效率、可维护性与长期可持续的工程实践
+
+---
+
+## 🚀 核心项目
 
 ### 🧩 VS Code 生产力套件
-| 项目名称 | 核心功能 | 技术亮点 |
+| 项目 | 目标 | 技术亮点 |
 | :--- | :--- | :--- |
-| [**MyBatis Toolkit Pro**](https://github.com/xiyeming/mybatis-toolkit-pro) | 专业级 MyBatis 开发增强 | 智能 SQL 验证、数据源管理、Java/XML 无缝导航 |
-| [**Java Javadoc Pro**](https://github.com/xiyeming/java-javadoc-pro) | IDEA 风格注释生成器 | 高度可定制注释模板、支持类/方法/文件头文档 |
+| [MyBatis Toolkit Pro](https://github.com/xiyeming/mybatis-toolkit-pro) | 提升 MyBatis 开发效率 | 智能 SQL 校验、多数据源支持、Java/XML 无缝跳转 |
+| [Java Javadoc Pro](https://github.com/xiyeming/java-javadoc-pro) | 一键生成标准化注释 | IDEA 风格模板、方法/类/文件头注释、VS Code 集成 |
 
-### 🛠️ 系统工具与 AI
-#### 🌍 [Waylex](https://github.com/xiyeming/Waylex)
-**AI 驱动的跨平台桌面翻译工具**
-- 截图即译，支持多厂商翻译结果对比
-- 全局快捷键调用，适合高频使用场景
-- 注重用户体验与效率提升
+### 🌍 系统工具与 AI
+#### [Waylex](https://github.com/xiyeming/Waylex)
+**AI 驱动的桌面翻译助手**
+- 截图即译，支持多方翻译引擎对比
+- 全局快捷键调用，适用于高频办公场景
+- 追求极致体验与可用性
+
+---
+
+## 📈 GitHub 统计与数据
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xiyeming&show_icons=true&theme=tokyonight&count_private=true&hide=issues,contribs" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiyeming&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/xiyeming?style=for-the-badge&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/xiyeming/xiyeming?style=for-the-badge&logo=github" alt="Repo Stars" />
+  <img src="https://img.shields.io/github/forks/xiyeming/xiyeming?style=for-the-badge&logo=github" alt="Repo Forks" />
+  <img src="https://img.shields.io/github/repo-size/xiyeming/xiyeming?style=for-the-badge&logo=github" alt="Repo Size" />
+</p>
 
 ---
 
@@ -40,11 +67,9 @@
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
-## 📊 GitHub 数据
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xiyeming&show_icons=true&theme=tokyonight&count_private=true" alt="xiyeming's GitHub Stats" />
-</p>
+- Rust: 系统工具、性能优化、CLI 开发
+- Java: 企业级插件、MyBatis 开发、后端服务
+- TypeScript: VS Code 扩展、前端工具与自动化脚本
 
 ---
 
