@@ -41,18 +41,16 @@
 ## 📈 GitHub 统计与数据
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xiyeming&show_icons=true&theme=tokyonight&count_private=true&hide=issues,contribs" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiyeming&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/github/followers/xiyeming?style=for-the-badge&logo=github" alt="Followers" />
   <img src="https://img.shields.io/github/stars/xiyeming/xiyeming?style=for-the-badge&logo=github" alt="Repo Stars" />
   <img src="https://img.shields.io/github/forks/xiyeming/xiyeming?style=for-the-badge&logo=github" alt="Repo Forks" />
   <img src="https://img.shields.io/github/repo-size/xiyeming/xiyeming?style=for-the-badge&logo=github" alt="Repo Size" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/languages/top/xiyeming/xiyeming?style=for-the-badge" alt="Top Language" />
+  <img src="https://img.shields.io/github/languages/count/xiyeming/xiyeming?style=for-the-badge" alt="Language Count" />
+  <img src="https://img.shields.io/github/commit-activity/y/xiyeming/xiyeming?style=for-the-badge" alt="Commit Activity" />
 </p>
 
 ---
